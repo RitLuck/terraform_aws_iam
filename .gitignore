@@ -1,2 +1,2 @@
 credentials
-.tfstate
+terraform.tfstate
